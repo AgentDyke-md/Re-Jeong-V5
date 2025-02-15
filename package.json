@@ -3,6 +3,10 @@
   "version": "5.0.0",
   "description": "Simple Bot Whatsapp With Baileys",
   "main": "index.js",
+  "engines": {
+      "node": ">= 21.x",
+      "npm": ">= 10.x"
+   },
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
